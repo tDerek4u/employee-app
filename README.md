@@ -10,6 +10,12 @@ composer install
 copy .env example and create .env
 ```
 
+## Database
+
+```
+connect your database in .env
+```
+
 ## Key Generate
 
 ```
